@@ -1,0 +1,6 @@
+# Coldplay-Music-Analysis
+This project is meant to serve as an in-depth analysis of the music artist Coldplay's discography. Coldplay are one of today's most popular bands in many countries around the world and have sold over 100 million albums. They have had influence on music through their reinventions of rock music into a more gentle and melodic style. Therefore, it is only sensible to consider what makes this world-renowned band who they are. 
+
+To start, their evoltuon will be analyzed, including their gradual transition away from rock and towards pop-oriented music. Then, an important question will be investigated: what makes the band so popular? Various recorded features of their music will be considered. Finally, Coldplay is knowne for having generally positive-sounding music. What characterizes these songs and how do they tie into their popularity? 
+
+The dataset used was taken from the following site: https://www.kaggle.com/datasets/faizalkarim/coldplay-albums-and-live-shows. It includes a comprehensive set of their music, including deluxe versions of their studio albums. The dataset originates from data collected by Spotify, which includes many different characteristics of each song, including the album, popularity, duration, tempo, and many others.
